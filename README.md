@@ -346,7 +346,3 @@ For issues and questions:
 - Verify environment variables are set correctly
 - Ensure all required npm packages are installed
 - Test with mock data before connecting external APIs
-
----
-
-**Built with ❤️ for disaster response coordination and emergency management teams worldwide.**
